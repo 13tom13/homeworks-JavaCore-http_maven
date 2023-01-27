@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="414c0d1c-eb5c-4a9a-babe-99c575fb54cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="414c0d1c-eb5c-4a9a-babe-99c575fb54cb" name="Changes" comment="corrected task 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_nasa/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/api_nasa/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_nasa/src/main/java/Nasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/api_nasa/src/main/java/Nasa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,5 +90,20 @@
       <updated>1674820718053</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="corrected task 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrected task 2" />
   </component>
 </project>
